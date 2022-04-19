@@ -1,0 +1,2 @@
+praw~=7.5.0
+python-decouple==3.5
